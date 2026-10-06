@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 238 (1.3%)
+- **Completed:** 4 / 238 (1.7%)
 
 ---
 
@@ -55,7 +55,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ### 📂 MODULE  2.8: GREEDY, SIMULATION & OPTIMI
 - [ ] Broken Calculator
-- [ ] N-th Digit
+- [x] [N-th Digit](./C++/Medium/400. Nth Digit/)
 - [ ] Reach Target Score
 - [ ] Rectangle Area
 - [ ] Minimum Operations to Make Array Equal
