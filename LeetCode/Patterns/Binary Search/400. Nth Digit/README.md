@@ -1,6 +1,6 @@
 # 📝 400. Nth Digit (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/nth-digit)
+🔗 [Problem Link](https://leetcode.com/problems/nth-digit/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Math, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 8 MB
 
 ---
 
