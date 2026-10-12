@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 1 / 76 (1.3%)
+- **Completed:** 2 / 76 (2.6%)
 
 ---
 
@@ -56,7 +56,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Word Break
 
 ### 📂 Binary Search
-- [ ] Single Element in a Sorted Array
+- [x] [Single Element in a Sorted Array](./C++/Medium/540. Single Element in a Sorted Array/)
 - [ ] Search in Rotated Sorted Array
 - [ ] Median of Two Sorted Arrays
 - [ ] Kth Element of Two Sorted Arrays
