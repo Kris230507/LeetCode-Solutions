@@ -48,7 +48,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  2.7: SERIES, FACTORIAL & NUMBER
 - [ ] Factorial Trailing Zeroes
 - [ ] Nim Game
-- [x] [Fibonacci Number](./C++/Easy/509. Fibonacci Number/)
+- [x] [Fibonacci Number](./C++/Easy/1013. Fibonacci Number/)
 - [ ] N-th Tribonacci Number
 - [ ] Clumsy Factorial
 - [ ] Arranging Coins
