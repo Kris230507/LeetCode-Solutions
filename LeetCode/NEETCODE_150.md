@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 2 / 150 (1.3%)
+- **Completed:** 3 / 150 (2.0%)
 
 ---
 
@@ -132,7 +132,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Palindromic Substrings
 - [ ] Decode Ways
 - [ ] Coin Change
-- [ ] Maximum Product Subarray
+- [x] [Maximum Product Subarray](./C++/Medium/152. Maximum Product Subarray/)
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
 - [ ] Partition Equal Subset Sum
