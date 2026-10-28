@@ -1,6 +1,6 @@
 # 📝 557. Reverse Words in a String III (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
