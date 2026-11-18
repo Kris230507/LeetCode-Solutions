@@ -8,8 +8,8 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 17.5 MB
 
 ---
 
@@ -21,24 +21,27 @@ If  `target`  is not found in the array, return  `[-1, -1]` .
 
 You must write an algorithm with  `O(log n)`  runtime complexity.
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
-Input:vector<int> nums = {5, 7, 7, 8, 8, 10};int target = 8;Output: [3,4]
+Input: nums = [5,7,7,8,8,10], target = 8
+Output: [3,4]
 
 ```
 
 **Example 2:**
 
 ```
-Input:vector<int> nums = {5, 7, 7, 8, 8, 10};int target = 6;Output: [-1,-1]
+Input: nums = [5,7,7,8,8,10], target = 6
+Output: [-1,-1]
 
 ```
 
 **Example 3:**
 
 ```
-Input:vector<int> nums = {};int target = 0;Output: [-1,-1]
+Input: nums = [], target = 0
+Output: [-1,-1]
 
 ```
 
